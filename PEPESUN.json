@@ -1,6 +1,6 @@
 {
     "name": "PEPESUN",
-    "logoURI": "https://ibb.co/nPGjdqX",
+    "logoURI": "https://raw.githubusercontent.com/forkmeharderdaddy/justlist/main/stuff/pepesunlogo.png",
     "timestamp": 1724723436000,
     "tokens": [
       {
@@ -9,7 +9,7 @@
         "name": "PEPESUN",
         "symbol": "PEPESUN",
         "decimals": 18,
-        "logoURI": "https://ibb.co/nPGjdqX"
+        "logoURI": "https://raw.githubusercontent.com/forkmeharderdaddy/justlist/main/stuff/pepesunlogo.png"
       }
     ],
     "version": {
