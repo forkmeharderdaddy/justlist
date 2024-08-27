@@ -1,20 +1,21 @@
 {
-  "name": "PEPESUN",
-  "logoURI": "https://ibb.co/nPGjdqX",
-  "timestamp": 1724309460,
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "TBexbdKduNauBmZvVCFvSa1VuDn917uVHv",
-      "name": "PEPESUN",
-      "symbol": "PEPESUN",
-      "decimals": 18,
-      "logoURI": "https://ibb.co/nPGjdqX"
+    "name": "PEPESUN",
+    "logoURI": "https://ibb.co/nPGjdqX",
+    "timestamp": 1724309460,
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "TBexbdKduNauBmZvVCFvSa1VuDn917uVHv",
+        "name": "PEPESUN",
+        "symbol": "PEPESUN",
+        "decimals": 18,
+        "logoURI": "https://ibb.co/nPGjdqX"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
     }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 0
   }
-}
+  
