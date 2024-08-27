@@ -1,13 +1,13 @@
 {
-    "name": "PEPESUN",
+    "name": "PepeSun",
     "logoURI": "https://raw.githubusercontent.com/forkmeharderdaddy/justlist/main/stuff/pepesunlogo.png",
     "timestamp": 1724723436000,
     "tokens": [
       {
         "chainId": 1,
         "address": "TBexbdKduNauBmZvVCFvSa1VuDn917uVHv",
-        "name": "PEPESUN",
-        "symbol": "PEPESUN",
+        "name": "PepeSun",
+        "symbol": "PepeSun",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/forkmeharderdaddy/justlist/main/stuff/pepesunlogo.png"
       }
